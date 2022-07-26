@@ -1,0 +1,3 @@
+name: PacketLoaderIOProxy
+version: '${project.version}'
+main: net.myvenox.projects.PacketLoaderIO
